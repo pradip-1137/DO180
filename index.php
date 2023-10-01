@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>My first PHP page </h1>
+<h1> !...Welcome to OPENSHIFT with WEBHOOK...!</h1>
 
 <?php
-echo "hello World from test FROM S2I 2nd time VERSION 3.2 "
+echo "This is S2I example version-1 "
 ?>
 
 </body>
